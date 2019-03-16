@@ -1,0 +1,59 @@
+Hello,
+
+ 
+
+This is the list of methods you need to implement:
+
+ 
+
+1. Calculate sum of digits of integer (ex. in case of 123, sum of digits = 6). Write to console different messages based on results
+
+            a. sum can be divided by 2 and 5 without remainder
+
+            b. sum can be divided by 3 or 10 without remainder
+
+ 
+
+2. Print to console whether integer is odd or even. Use ternary operator ("short if")
+
+ 
+
+3. Iterate from 1 to given number and print even only numbers.
+
+ 
+
+4. Calculate the average of three numbers.
+
+ 
+
+5. Calculate sum of odd numbers from given range. Method should have 2 parameters - first and last numbers from range. Use "while" cycle
+
+ 
+
+6. Print to console name of day based on given number. Use switch statement
+
+ 
+
+7. Method that prints matrix based on given size. ex. In case of 3 -
+
+                        1 1 1
+
+                        1 1 1
+
+                        1 1 1
+
+ 
+
+8. Print to console factorial of number 10
+
+ 
+
+9. Calculate if given number is a prime number
+
+ 
+
+ 
+
+There is no deadline for this task, but try to finish as much as possible until this session. Don’t rush because most importantly you should understand and get used to basic operations. Anyway, during upcoming session we will review together your exercises.
+
+ 
